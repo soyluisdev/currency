@@ -15,7 +15,7 @@ usd_mxn = (data['conversion_rates']['MXN'])/(data['conversion_rates']['USD'])
 values = (data['conversion_rates'])
 
 print("The value of NZD in mexican pesos is " + str(nzd_mxn))
-print("The value of NZD in mexican pesos is " + str(usd_mxn))
+print("The value of USD in mexican pesos is " + str(usd_mxn))
 
 convert_nzd = float(input("How many nzd you want to convert "))
 nzd_converted = convert_nzd * nzd_mxn
