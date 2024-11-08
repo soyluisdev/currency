@@ -10,7 +10,7 @@ This project is a basic currency converter that uses the Exchange Rate API to co
 
 ## Requirements
 
-- **Python**: This project is written in Python and requires Python 3.x.
+- **Python**: This project is written in Python and requires Python 3.12.
 - **Requests Library**: Install via `pip install requests` to handle HTTP requests to the Exchange Rate API.
 - **Exchange Rate API Key**: You will need an API key from [Exchange Rate API](https://www.exchangerate-api.com/).
 
